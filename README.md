@@ -23,15 +23,30 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 
 
-PRÁCTICA 3 GESTIÓN DE PROYECTOS
-  -ADRIAN REDONDO GARCIA
-  -RAUL BARRIUSO GARCIA
-  -ALBA TERRADO MONDELA
-  -BRUNO ARZA LOPEZ
+## PRÁCTICA 3 GESTIÓN DE PROYECTOS
+- ADRIAN REDONDO GARCIA
+- RAUL BARRIUSO GARCIA
+- ALBA TERRADO MONDELA
+- BRUNO ARZA LOPEZ
 
 · Guia de como se realiza la secuencia de acciones:
+Ántes de poder realizar todas las acciones, primero hay que crear una organización en la cual hay que
+meter a todos nuestros compañeros. Luego clonamos el repositorio indicado colocando de autor a la
+organización. Además hay que clonar el repositorio de go-bees para poder acceder a todos los commits
+realizados y ser capaces de realizar las operaciones. Por último, fijándonos el unos cuantos commits
+del repositorio go-bees, creamos issues con el mismo nombre que los commits.
 
+Una vez hecho lo anterior, los pasos a seguir son los siguientes:
 
+Primero en GitKraken en el repositorio go-bees que hemos clonado, seleccionamos como master el commit que
+queremos aplicar. Tras eso nos vamos a GitHub en nuestro repositorio donde con los issues creados anteriormente
+crearemos una rama a partir de ese issue. Una vez creada, en Gitkraken, el la parte izquierda de nuestro proyecto,
+aparecerán las ramas que tenemos en remoto y en local, haciendo doble clic en la rama con el issue que hemos creado
+la tendremos en nuestro PC. Una vez hecho eso, tendremos que pasar los archivos de la carpeta go-bees a nuestro
+proyecto sustituyendo todos los archivos. Después en GitKraken, primero haremos un fetch y un pull para comprobar
+si estamos al día, luego haremos que se registren todos los cambios y realizamos un commit a la rama, terminando
+con un push para que los cambios pasen de la rama en local a la rama remota. Por último en GitHub, realizamos
+una pull request para aplicar los cambios en la rama del issue a la rama master.
 
 · Gitkraken
 
