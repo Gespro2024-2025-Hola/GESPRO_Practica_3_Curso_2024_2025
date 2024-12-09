@@ -30,6 +30,7 @@ GNU General Public License for more details.
 - BRUNO ARZA LOPEZ
 
 · Guia de como se realiza la secuencia de acciones:
+
 Ántes de poder realizar todas las acciones, primero hay que crear una organización en la cual hay que
 meter a todos nuestros compañeros. Luego clonamos el repositorio indicado colocando de autor a la
 organización. Además hay que clonar el repositorio de go-bees para poder acceder a todos los commits
