@@ -21,3 +21,41 @@ This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
+
+
+PRÁCTICA 3 GESTIÓN DE PROYECTOS
+  -ADRIAN REDONDO GARCIA
+  -RAUL BARRIUSO GARCIA
+  -ALBA TERRADO MONDELA
+  -BRUNO ARZA LOPEZ
+
+· Guia de como se realiza la secuencia de acciones:
+
+
+
+· Gitkraken
+
+![image](https://github.com/user-attachments/assets/02d0d3d9-36dc-4646-a35b-f43cad666f04)
+
+Primer commit
+
+![image](https://github.com/user-attachments/assets/6225aac0-51da-4afb-9d88-f7ab57b9267e)
+
+Ultimo commit
+
+![image](https://github.com/user-attachments/assets/8edc10f8-f734-40b5-9b80-f16d32e3531c)
+
+
+
+Insights→Pulse
+
+![image](https://github.com/user-attachments/assets/948a81c5-927d-4aa5-abcb-3177a8840279)
+
+Insights→ Code frequency
+
+![image](https://github.com/user-attachments/assets/4bc6805f-0fe4-4634-bdf2-54a83753a651)
+
+PRQs realizadas cerradas
+Github closed issues
+
+![image](https://github.com/user-attachments/assets/2e895672-eb2c-461a-a508-112019036eaa)
